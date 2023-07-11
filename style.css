@@ -15,7 +15,7 @@ body {
 .header {
 
    background-color: rgba(246, 204, 175, 1);
-   width: 1920px;
+   width: 1350px;
    height: 550px;
    
 }
@@ -51,4 +51,75 @@ body {
     padding: 18px 35px;
     top: 350px;
     cursor: pointer;
+}
+
+/* featured section */
+.featured {
+    margin-top: 80px;
+    text-align: center;
+
+
+    
+}
+.featired-heading {
+    font-size: 30px;
+    margin: 20px;
+    font-style: italic;
+}
+.flower-section {
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+    display: flex;
+    text-align: center;
+    width: auto;
+    left: 200px;
+    position: absolute;
+    justify-content: center;
+    width: 1000px;
+    height: 400px;
+    
+}
+.flowers1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 364px;
+    height: 428px;
+    margin: 10px;
+}
+.flowers2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 370px;
+    height: 370px;
+    margin: 10px;
+}
+.flowers3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 314px;
+    height: 471px;
+    margin: 10px;
+
+}
+
+
+/* support secition */
+
+.support {
+    box-sizing: border-box;
+    /*width: 1350px;*/
+    height: 180px;
+    display: flex;
+    position: absolute;
+    top: 1300px;
+    left: 300px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    
+}
+.support-1 {
+
+    margin: 30px;
 }
