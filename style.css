@@ -172,3 +172,22 @@ body {
     display: flex;
     height: 408px;
 }
+.email {
+    border-radius: 8px;
+    background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+/* footer section */
+footer {
+    background: #111010;
+    width: 1350px;
+    height: 550px;
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    top: 2600px;
+    mar
+}
+.footer-2 {
+    color: rgba(255, 255, 255, 0.90);
+    color: rgba(255, 255, 255, 0.40);
+}
