@@ -180,12 +180,11 @@ body {
 footer {
     background: #111010;
     width: 1350px;
-    height: 550px;
+    height: 200px;
     color: #fff;
     position: absolute;
     text-align: center;
     top: 2600px;
-    mar
 }
 .footer-2 {
     color: rgba(255, 255, 255, 0.90);
